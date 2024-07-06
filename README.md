@@ -10,9 +10,9 @@ This project controls an LED strip based on the music playing in the environment
 - LED strip
 - Connecting wires
 
-## Connection Diagram
+## Prototype Render
 
-![Connection Diagram](images/connection_diagram.png)
+![Prototype Render](prototype_render.png)
 
 ## Installation and Setup
 
