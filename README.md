@@ -1,6 +1,6 @@
 # Music Light Control
 
-![Project Cover](images/boiler_room_cover.png)
+![Project Cover](boiler_room_cover.png)
 
 This project controls an LED strip based on the music playing in the environment. An ESP32 listens to the ambient sound through a microphone, processes the sound frequencies, and sends signals to control the LED strip accordingly.
 
